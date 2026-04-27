@@ -1,2 +1,7 @@
-# demo-odontop-caballito
-Demo web para Odontop Caballito — diseñada por eterlab.
+# Odontop Caballito
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
